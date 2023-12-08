@@ -9,7 +9,7 @@ My name is Justin Fiddler and I want to thank you for checking out my Code Fello
 
 Check out my [profile on GitHub](https://github.com/Justin-Fiddler)
 
-#### :mailbox_with_mail::point_right:Justin.R.Fiddler@gmail.com
+:mailbox_with_mail::point_right:Justin.R.Fiddler@gmail.com
 ----
 
 ![My dog on a foggy morning.](20230925_080249.jpg)
