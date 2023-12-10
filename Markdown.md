@@ -40,7 +40,7 @@ The link text will be followed by the URL link in Parenthesis. Example: (https:/
 
 ## Creating an unordered list with Markdown
 
-Unordered lists can be created using a dass(-), plus(+), or asterisk(*).
+Unordered lists can be created using a dash(-), plus(+), or asterisk(*).
 
 > Example
 >
