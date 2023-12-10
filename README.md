@@ -29,3 +29,9 @@ The growth mindset is a way to overcome self-doubt through persistence, but pers
 - Take breaks. Taking breaks is very important to my success. From what I have read and experienced, a 15 minute break can help me bring a fresh set of eyes to whatever I may be working on. Sometimes, that break could be overnight. For me, my frustration usually coincides with my energy. If I am tired, I am more likely to misinterpret instructions and therefore set myself up for failure.
 - Learn how to learn. In my past experience, learning a new skill can be frustrating. Mainly due to how I have changed without knowing it. As I have aged, how I learn efficiently has changed. So, having patience with myself while also exploring new ways of retaining information are vitally important to my success. I have to learn how to learn before I can learn. Also, writing "learn" in the same sentence three times somehow makes this less daunting. 
 
+# Contents
+
+## Class 102
+
+### [Markdown](https://justin-fiddler.github.io/reading-notes/Markdown)
+
