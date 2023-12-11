@@ -7,7 +7,7 @@
 
 My name is Justin Fiddler and I want to thank you for checking out my Code Fellows Journey.
 
-Check out my [profile on GitHub](https://github.com/Justin-Fiddler)
+[Checkl out my GitHub Profile!](https://github.com/Justin-Fiddler)
 
 ### 📫 👉 [Here](Mailto:Justin.R.Fiddler@gmail.com)
 ----
