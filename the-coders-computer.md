@@ -142,18 +142,19 @@ Relative Paths specify a location in relation to where you are within the system
   - `..` (dotdot) Represents the parent directory
     > (Example: If you are in /home/justin, you can run the command: `ls ../ ../` to get a listing of the home or root directory.
 
-##### `CD` (Change directory)
+
+**`CD`** (Change directory)
   
 - cd can be ran without any arguments to take you back to the home directory
   - Typically, CD is ran with a single command line argument to show where we want to go.
   - The location can be specified as an absolute or relative path
     > Tip: You can use the "tab" button to help complete the command line possibility as long as there is only one possible outcome.
 
-##### `mkdir` (Make Directory)
+**`mkdir`** (Make Directory)
 
 - Alternative to right clicking in a folder to create a new folder
 
-###### `touch` (Create a new file)
+**`touch`** (Create a new file)
 
 - Alternative to right clicking in a folder to create a new folder
 
