@@ -17,10 +17,13 @@
 - Variety of Themes (to reduce eye strain and fatigue)
   - Themes can change the background and font colors to help you in whatever environment you are working.
   - The goal here is to reduce the strain on your eyes!
-- A healthy set of extensions available when needed. 
+- A healthy set of extensions available when needed.
+
   - Having the ability to add features to your text editor will come in handy!
+
  > text editors that are pre installed on your computer generally lack the components listed above.
    > However, if you *do* decide to use one of these preloaded programs, make sure that the program does the following:
+>
 > - Creates code in plains text. You shouldn't see any options for making bold, italic, underlined, etc...
 > - File structure needs to be organized by you. Make sure that all files are saved in the appropriate folders
 >   or subfolders
@@ -72,11 +75,12 @@
 ### The Difference between Text Editors and IDE
 
 IDE's contain text editors, but in a suite of software with a file manager, a compiler, and a debugger
+
 - This type of software may be overwhelming to beginners
 
 ### Text Editors Conclusion
 
-Text editors change often, so keep up with the times so that your coding experience is efficient to your style. 
+Text editors change often, so keep up with the times so that your coding experience is efficient to your style.
 
 ## Linux Tutorial
 
@@ -100,14 +104,16 @@ The most common shell is known as ***Bash***.
 #### `PWD`
 
 Stands for **"Print Working Directory"**
-  - This will tell you your current location with the directory
+
+- This will tell you your current location with the directory
 
 #### `ls`
 
 Stands for **"List"**
-  - This will give you a list of what files are available in your current location.
+
+- This will give you a list of what files are available in your current location.
   - by add (-l), this will now give you more information about the files. This will show what type of file it is, Permissions, Blocks, Owner, group or directory it belongs to, file size, file modification time, name of file or directory.
-  - by adding (Example `ls -l /etc`), we can see a list of that directories contents.
+- by adding (Example `ls -l /etc`), we can see a list of that directories contents.
 
 #### Paths
 
@@ -118,39 +124,40 @@ A path refers to a file or directory on the "command line" or "terminal"
 ##### 1. Absolute Paths
 
 Absolute paths specify a location (file or directory) in relation to the root directory.
-  - They will always begin with (`/`).
+
+- They will always begin with (`/`).
     > Example: `/home/justin/documents/file1.txt`
 
 ##### 2. Relative Paths
 
 Relative Paths specify a location in relation to where you are within the system.
-  - They will **not** begin with (`/`).
+
+- They will **not** begin with (`/`).
   - > Example: `ls documents file1.txt`
 
 #### Path Continued - Short Cuts
 
-  - `~` (tilde) represents a shortcut for home directory
+- `~` (tilde) represents a shortcut for home directory
   - `.` (dot) represents the current directory.
   - `..` (dotdot) Represents the parent directory
     > (Example: If you are in /home/justin, you can run the command: `ls ../ ../` to get a listing of the home or root directory.
- 
-  ##### `CD` (Change directory)
+
+##### `CD` (Change directory)
   
-  - cd can be ran without any arguments to take you back to the home directory
+- cd can be ran without any arguments to take you back to the home directory
   - Typically, CD is ran with a single command line argument to show where we want to go.
   - The location can be specified as an absolute or relative path
     > Tip: You can use the "tab" button to help complete the command line possibility as long as there is only one possible outcome.
 
-  ##### `mkdir` (Make Directory) 
+##### `mkdir` (Make Directory)
 
-  - Alternative to right clicking in a folder to create a new folder
+- Alternative to right clicking in a folder to create a new folder
 
-  ###### `touch` (Create a new file)
+###### `touch` (Create a new file)
 
-  - Alternative to right clicking in a folder to create a new folder
+- Alternative to right clicking in a folder to create a new folder
 
-
-# The Coder's Computer Answers
+# Answers
 
 1. The four important features of a text editor
    - Code Completion
@@ -171,3 +178,4 @@ Relative Paths specify a location in relation to where you are within the system
    3. `touch new-project/newfile.md` - the user is creating a new file within the "new-project" folder
    4. `cd ..` - returning to the parent directory of "Projects"
    5. `ls projects/new-project` - asking for a list of files within the "new-project" folder that is contained in the parent directory called "projects"
+
