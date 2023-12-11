@@ -33,5 +33,5 @@ The growth mindset is a way to overcome self-doubt through persistence, but pers
 
 ## Class 102
 
-### [Markdown](https://justin-fiddler.github.io/reading-notes/Markdown)
+### [Markdown](https://justin-fiddler.github.io/reading-notes/markdown)
 
