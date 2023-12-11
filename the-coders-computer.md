@@ -82,9 +82,9 @@ Text editors change often, so keep up with the times so that your coding experie
 
 ### Line One
 
-  1. Prompt (Example: ➜  ~ )
-  2. Command (Example: ls)
-  3. Argument or Option typically start with a dash (Example: -l)
+  1. Prompt - Example: `➜  ~`
+  2. Command - Example: `ls`
+  3. Argument or Option typically start with a dash. Example: `-l`
   4. Argument
 
       > Spaces have to be between each of the 4
@@ -93,21 +93,21 @@ Text editors change often, so keep up with the times so that your coding experie
 
 The shell is the part of the operating system that defines how the terminal will act and appear after commands.
 The most common shell is known as ***Bash***.
-  > Use the command "echo $SHELL' to find out what shell you are using.
+  > Use the command `echo $SHELL` to find out what shell you are using.
 
 ### How to Move Around
 
-#### PWD
+#### `PWD`
 
 Stands for **"Print Working Directory"**
   - This will tell you your current location with the directory
 
-#### ls
+#### `ls`
 
 Stands for **"List"**
   - This will give you a list of what files are available in your current location.
   - by add (-l), this will now give you more information about the files. This will show what type of file it is, Permissions, Blocks, Owner, group or directory it belongs to, file size, file modification time, name of file or directory.
-  - by adding (Example ls -l /etc), we can see a list of that directories contents.
+  - by adding (Example `ls -l /etc`), we can see a list of that directories contents.
 
 #### Paths
 
@@ -118,34 +118,34 @@ A path refers to a file or directory on the "command line" or "terminal"
 ##### 1. Absolute Paths
 
 Absolute paths specify a location (file or directory) in relation to the root directory.
-  - They will always begin with (/).
-    > Example: /home/justin/documents/file1.txt
+  - They will always begin with (`/`).
+    > Example: `/home/justin/documents/file1.txt`
 
 ##### 2. Relative Paths
 
 Relative Paths specify a location in relation to where you are within the system.
-  - They will **not** begin with (/).
-  - > Example: ls documents file1.txt
+  - They will **not** begin with (`/`).
+  - > Example: `ls documents file1.txt`
 
 #### Path Continued - Short Cuts
 
-  - ~ (tilde) represents a shortcut for home directory
-  - . (dot) represents the current directory.
-  - .. (dotdot) Represents the parent directory
-    > (Example: If you are in /home/justin, you can run the command: ls ../ ../ to get a listing of the home or root directory.
+  - `~` (tilde) represents a shortcut for home directory
+  - `.` (dot) represents the current directory.
+  - `..` (dotdot) Represents the parent directory
+    > (Example: If you are in /home/justin, you can run the command: `ls ../ ../` to get a listing of the home or root directory.
  
-  ##### CD (Change directory)
+  ##### `CD` (Change directory)
   
   - cd can be ran without any arguments to take you back to the home directory
   - Typically, CD is ran with a single command line argument to show where we want to go.
   - The location can be specified as an absolute or relative path
     > Tip: You can use the "tab" button to help complete the command line possibility as long as there is only one possible outcome.
 
-  ##### mkdir (Make Directory) 
+  ##### `mkdir` (Make Directory) 
 
   - Alternative to right clicking in a folder to create a new folder
 
-  ###### touch (Create a new file)
+  ###### `touch` (Create a new file)
 
   - Alternative to right clicking in a folder to create a new folder
 
@@ -159,15 +159,15 @@ Relative Paths specify a location in relation to where you are within the system
    - syntax highlighting
   
 2. The following commands and their outcomes
-   1. PWD - Print Working document will show you your location in the terminal
-   2. ls - List will show you a list of files in your current location
-   3. cd - Change Directory will take you to the file or directory you choose. However, just stating       "cd" will take you to your home directory.
-   4. mkdir - Make Directory will create a new folder
-   5. touch - Creates a new file
+   1. `PWD` - Print Working document will show you your location in the terminal
+   2. `ls` - List will show you a list of files in your current location
+   3. `cd` - Change Directory will take you to the file or directory you choose. However, just stating `cd` will take you to your home directory.
+   4. `mkdir` - Make Directory will create a new folder
+   5. `touch` - Creates a new file
   
 3. Explain Scenarios
-   1. "CD Projects" - Changing location in the terminal to the folder named "Projects"
-   2. "mkdir new-project" - Create a new folder or directory within the "Projects" folder
-   3. "touch new-project/newfile.md" - the user is creating a new file within the "new-project" folder
-   4. "cd .." - returning to the parent directory of "Projects"
-   5. "ls projects/new-project" - asking for a list of files within the "new-project" folder that is contained in the parent directory called "projects"
+   1. `CD Projects` - Changing location in the terminal to the folder named "Projects"
+   2. `mkdir new-project` - Create a new folder or directory within the "Projects" folder
+   3. `touch new-project/newfile.md` - the user is creating a new file within the "new-project" folder
+   4. `cd ..` - returning to the parent directory of "Projects"
+   5. `ls projects/new-project` - asking for a list of files within the "new-project" folder that is contained in the parent directory called "projects"
