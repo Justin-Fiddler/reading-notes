@@ -35,3 +35,5 @@ The growth mindset is a way to overcome self-doubt through persistence, but pers
 
 ### [Markdown](https://justin-fiddler.github.io/reading-notes/markdown)
 
+### [The Coder's Computer](https://justin-fiddler.github.io/reading-notes/the-coders-computer)
+
