@@ -140,7 +140,7 @@ Relative Paths specify a location in relation to where you are within the system
 - `~` (tilde) represents a shortcut for home directory
   - `.` (dot) represents the current directory.
   - `..` (dotdot) Represents the parent directory
-    > Example: If you are in '/home/justin', you can run the command: `ls ../ ../` to get a listing of the home or root directory.
+    > Example: If you are in '/home/justin,' you can run the command: `ls ../ ../` to get a listing of the home or root directory.
 
 **`CD`** (Change directory)
   
