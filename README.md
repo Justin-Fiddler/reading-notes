@@ -4,11 +4,11 @@
 
 ## _My Code Fellows Reading Journal_
 
-My name is Justin Fiddler and I want to thank you for checking out my Code Fellows Journey. If you would like to know more about me and my thought process through this class, please check out my first Code Fellows assignment turned good vibes dump site, [*My Growth Mindset*.](https://justin-fiddler.github.io/reading-notes/growth-mindset) This will be a collection of positive thoughts that I hope you will stop by and enjoy.
+My name is Justin Fiddler and I want to thank you for checking out my Code Fellows Journey. If you would like to know more about me and my thought process throughout this bootcamp, please check out my first Code Fellows assignment turned good vibes dump site, [*My Growth Mindset*.](https://justin-fiddler.github.io/reading-notes/growth-mindset) This will be a collection of positive thoughts that I hope you will stop by and enjoy periodically. If you would like to reach out and chat, I have provided a link to [my email](mailto:justin.r.fiddler@gmail.com) below.
 
 [Check out my GitHub Profile!](https://github.com/Justin-Fiddler)
 
-### [👉 📫](Mailto:Justin.R.Fiddler@gmail.com)
+## [👉 📫](Mailto:Justin.R.Fiddler@gmail.com)
 
 ----
 
