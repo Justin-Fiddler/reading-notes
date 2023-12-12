@@ -20,7 +20,7 @@ My name is Justin Fiddler and I want to thank you for checking out my Code Fello
 
 ### [Class 2 - The Coder's Computer](https://justin-fiddler.github.io/reading-notes/code-102/class-02)
 
-### [Class 3 - Revisions and the Cloud](https://justin-fiddler.github.io/code-201/class-03)
+### [Class 3 - Revisions and the Cloud](https://justin-fiddler.github.io/reading-notes/code-201/class-03)
 
 ### [Class 04](https://justin-fiddler.github.io/reading-notes/code-102/class-04)
 
