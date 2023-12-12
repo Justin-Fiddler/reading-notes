@@ -112,8 +112,8 @@ Stands for **"Print Working Directory"**
 Stands for **"List"**
 
 - This will give you a list of what files are available in your current location.
-  - by add (-l), this will now give you more information about the files. This will show what type of file it is, Permissions, Blocks, Owner, group or directory it belongs to, file size, file modification time, name of file or directory.
-- by adding (Example `ls -l /etc`), we can see a list of that directories contents.
+  - by add `-l``, this will now give you more information about the files. This will show what type of file it is, Permissions, Blocks, Owner, group or directory it belongs to, file size, file modification time, name of file or directory.
+- by adding `ls -l /etc`, we can see a list of that directories contents.
 
 #### Paths
 
@@ -132,7 +132,7 @@ Absolute paths specify a location (file or directory) in relation to the root di
 
 Relative Paths specify a location in relation to where you are within the system.
 
-- They will **not** begin with (`/`).
+- They will **not** begin with `/`.
   - > Example: `ls documents file1.txt`
 
 #### Path Continued - Short Cuts
@@ -140,12 +140,12 @@ Relative Paths specify a location in relation to where you are within the system
 - `~` (tilde) represents a shortcut for home directory
   - `.` (dot) represents the current directory.
   - `..` (dotdot) Represents the parent directory
-    > (Example: If you are in /home/justin, you can run the command: `ls ../ ../` to get a listing of the home or root directory.
+    > Example: If you are in '/home/justin', you can run the command: `ls ../ ../` to get a listing of the home or root directory.
 
 **`CD`** (Change directory)
   
-- cd can be ran without any arguments to take you back to the home directory
-  - Typically, CD is ran with a single command line argument to show where we want to go.
+- `cd`` can be ran without any arguments to take you back to the home directory
+  - Typically, `cd` is ran with a single command line argument to show where we want to go.
   - The location can be specified as an absolute or relative path
     > Tip: You can use the "tab" button to help complete the command line possibility as long as there is only one possible outcome.
 
