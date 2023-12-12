@@ -17,7 +17,7 @@ The growth mindset is a way to overcome self-doubt through persistence, but pers
 >
 > -- *unknown*
 
-I recently saw an old meme that was recirculating with the above quote. For some reason, the power of this statement hit me harder this time. I'm sure that anyone with a little fury friend can relate.
+I recently saw an old meme that was recirculating with the above quote. For some reason, the power of this statement hit me harder this time. I'm sure that anyone with a little four-legged friend can relate.
 
 ![a picture of my dog on a foggy morning](https://justin-fiddler.github.io/reading-notes/20230925_080249.jpg)
 a picture of my dog on a foggy morning
