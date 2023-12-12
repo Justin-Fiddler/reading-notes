@@ -142,7 +142,6 @@ Relative Paths specify a location in relation to where you are within the system
   - `..` (dotdot) Represents the parent directory
     > (Example: If you are in /home/justin, you can run the command: `ls ../ ../` to get a listing of the home or root directory.
 
-
 **`CD`** (Change directory)
   
 - cd can be ran without any arguments to take you back to the home directory
@@ -158,7 +157,7 @@ Relative Paths specify a location in relation to where you are within the system
 
 - Alternative to right clicking in a folder to create a new folder
 
-# Answers
+## Answers
 
 1. The four important features of a text editor
    - Code Completion
@@ -179,4 +178,3 @@ Relative Paths specify a location in relation to where you are within the system
    3. `touch new-project/newfile.md` - the user is creating a new file within the "new-project" folder
    4. `cd ..` - returning to the parent directory of "Projects"
    5. `ls projects/new-project` - asking for a list of files within the "new-project" folder that is contained in the parent directory called "projects"
-

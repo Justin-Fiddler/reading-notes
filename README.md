@@ -27,50 +27,50 @@ The growth mindset is a way to overcome self-doubt through persistence, but pers
 
 ## Class 102
 
-### [Class 1 - Markdown](https://justin-fiddler.github.io/reading-notes/code-102/markdown)
+### [Class 1 - Markdown](https://justin-fiddler.github.io/reading-notes/code-102/class-01)
 
-### [Class 2 - The Coder's Computer](https://justin-fiddler.github.io/reading-notes/code-102/the-coders-computer)
+### [Class 2 - The Coder's Computer](https://justin-fiddler.github.io/reading-notes/code-102/class-02)
 
 ### [Class 3 - Revisions and the Cloud](https://justin-fiddler.github.io/code-201/class-03)
 
-### [Class 04](https://justin-fiddler.github.io/code-102/class-04)
+### [Class 04](https://justin-fiddler.github.io/reading-notes/code-102/class-04)
 
-### [Class 05](https://justin-fiddler.github.io/code-102/class-05)
+### [Class 05](https://justin-fiddler.github.io/reading-notes/code-102/class-05)
 
-### [Class 06](https://justin-fiddler.github.io/code-102/class-06)
+### [Class 06](https://justin-fiddler.github.io/reading-notes/code-102/class-06)
 
-### [Class 07](https://justin-fiddler.github.io/code-102/class-07)
+### [Class 07](https://justin-fiddler.github.io/reading-notes/code-102/class-07)
 
-### [Class 08](https://justin-fiddler.github.io/code-102/class-08)
+### [Class 08](https://justin-fiddler.github.io/reading-notes/code-102/class-08)
 
 ## Class 201
 
-### [Class 01](https://justin-fiddler.github.io/code-201/class-01)
+### [Class 01](https://justin-fiddler.github.io/reading-notes/code-201/class-01)
 
-### [Class 02](https://justin-fiddler.github.io/code-201/class-02)
+### [Class 02](https://justin-fiddler.github.io/reading-notes/code-201/class-02)
 
-### [Class 03](https://justin-fiddler.github.io/code-201/class-03)
+### [Class 03](https://justin-fiddler.github.io/reading-notes/code-201/class-03)
 
-### [Class 04](https://justin-fiddler.github.io/code-201/class-04)
+### [Class 04](https://justin-fiddler.github.io/reading-notes/code-201/class-04)
 
-### [Class 05](https://justin-fiddler.github.io/code-201/class-05)
+### [Class 05](https://justin-fiddler.github.io/reading-notes/code-201/class-05)
 
-### [Class 06](https://justin-fiddler.github.io/code-201/class-06)
+### [Class 06](https://justin-fiddler.github.io/creading-notes/ode-201/class-06)
 
-### [Class 07](https://justin-fiddler.github.io/code-201/class-07)
+### [Class 07](https://justin-fiddler.github.io/reading-notes/code-201/class-07)
 
-### [Class 08](https://justin-fiddler.github.io/code-201/class-08)
+### [Class 08](https://justin-fiddler.github.io/reading-notes/code-201/class-08)
 
-### [Class 09](https://justin-fiddler.github.io/code-201/class-09)
+### [Class 09](https://justin-fiddler.github.io/reading-notes/code-201/class-09)
 
-### [Class 10](https://justin-fiddler.github.io/code-201/class-10)
+### [Class 10](https://justin-fiddler.github.io/reading-notes/code-201/class-10)
 
-### [Class 11](https://justin-fiddler.github.io/code-201/class-11)
+### [Class 11](https://justin-fiddler.github.io/reading-notes/code-201/class-11)
 
-### [Class 12](https://justin-fiddler.github.io/code-201/class-12)
+### [Class 12](https://justin-fiddler.github.io/creading-notes/ode-201/class-12)
 
-### [Class 13](https://justin-fiddler.github.io/code-201/class-13)
+### [Class 13](https://justin-fiddler.github.io/reading-notes/code-201/class-13)
 
-### [Class 14](https://justin-fiddler.github.io/code-201/class-14)
+### [Class 14](https://justin-fiddler.github.io/reading-notes/code-201/class-14)
 
-### [Class 15](https://justin-fiddler.github.io/code-201/class-15)
+### [Class 15](https://justin-fiddler.github.io/reading-notes/code-201/class-15)
