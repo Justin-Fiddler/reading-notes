@@ -22,7 +22,7 @@ Hello! My name is Justin Fiddler and I want to thank you for checking out my Cod
 
 ### [Class 03 - Revisions and the Cloud](https://justin-fiddler.github.io/reading-notes/code-102/class-03)
 
-### [Class 04](https://justin-fiddler.github.io/reading-notes/code-102/class-04)
+### [Class 04 - Structure Web Pages with HTML](https://justin-fiddler.github.io/reading-notes/code-102/class-04)
 
 ### [Class 05](https://justin-fiddler.github.io/reading-notes/code-102/class-05)
 
