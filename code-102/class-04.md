@@ -36,18 +36,21 @@ A blueprint is important because it guides the developers creating code for the 
 
 HyperText Markup Language, or HTML, is code that structures web pages and it's content.
 
-#### Examples
+#### Examples of HTML
 
-    - `<p>My cat is very grumpy</p>` - Element
-    - `<p>` - "Opening Tag"
-    - `My cat is very grumpy` - Content
-    - `</p` - Closing Tag indicated by a forawrd slash
-    - `<p>My cat is very grumpy</p>` - Element
+`<p>My cat is very grumpy</p>` - Element
+`<p>` - "Opening Tag"
+`My cat is very grumpy` - Content
+`</p` - Closing Tag indicated by a forawrd slash
+`<p>My cat is very grumpy</p>` - Element
 
-HTML with Attributes:
+#### HTML with *Attributes*:
+
 `<p class="editor-note">My cat is very grumpy</p>`
-    - `class` is the attribute name
-    - `editor-note` is the attribute value
+
+`class` is the attribute name
+
+`editor-note` is the attribute value
 
 ## Answers
 
