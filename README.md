@@ -24,7 +24,7 @@ Hello! My name is Justin Fiddler and I want to thank you for checking out my Cod
 
 ### [Class 04 - Structure Web Pages with HTML](https://justin-fiddler.github.io/reading-notes/code-102/class-04)
 
-### [Class 05](https://justin-fiddler.github.io/reading-notes/code-102/class-05)
+### [Class 05 - Design Web Pages with CSS](https://justin-fiddler.github.io/reading-notes/code-102/class-05)
 
 ### [Class 06](https://justin-fiddler.github.io/reading-notes/code-102/class-06)
 
