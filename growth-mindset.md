@@ -29,3 +29,12 @@ I recently saw an old meme that was recirculating with the above quote. For some
 ![a scarecrow in a cartoon style standing in front of a sunflower field with a large smile on its face.](https://media.discordapp.net/attachments/1055596118219702283/1184868675845619712/jfiddy2967_in_they_style_of_the_movie_toy_story_a_delighted_sca_77d98caa-ce1a-4740-a9fd-d1a053a05348.png?ex=658d89f2&is=657b14f2&hm=caab42625463d5f6a67906803493c3b0349871717cd09798eb0602b674226924&=&format=webp&quality=lossless&width=635&height=635)
 
 ### Because it was outstanding in its field!
+
+## Friday, December 15th, 2023
+
+### Remo Experience
+
+![working on a macbook pro, overlooking the sea on a rooftop patio in a mediterranean town.](https://images.unsplash.com/photo-1530977875151-aae9742fde19?q=80&w=2679&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+*Sadly, this is not me, but it works for the story.*
+
+I just wanted to take a moment and say that the TA's that are working in Remo have been absolutely fantastic to get help from. They don't just try to fix a problem, they want to teach you how and why. I have always been a better learner when theory is taught. I just need to know why or it doesn't ***click***. So I thought I would let everyone who may ever read this know that I 10/10 recommend a nice remo experience on a friday afternoon.
