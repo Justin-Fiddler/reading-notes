@@ -20,4 +20,12 @@ The growth mindset is a way to overcome self-doubt through persistence, but pers
 I recently saw an old meme that was recirculating with the above quote. For some reason, the power of this statement hit me harder this time. I'm sure that anyone with a little four-legged friend can relate.
 
 ![a picture of my dog on a foggy morning](https://justin-fiddler.github.io/reading-notes/20230925_080249.jpg)
-a picture of my dog on a foggy morning
+*a picture of my dog on a foggy morning*
+
+## Thursday, December 14th, 2023
+
+### Why did the scarecrow win an award?
+
+![a scarecrow in a cartoon style standing in front of a sunflower field with a large smile on its face.](https://media.discordapp.net/attachments/1055596118219702283/1184868675845619712/jfiddy2967_in_they_style_of_the_movie_toy_story_a_delighted_sca_77d98caa-ce1a-4740-a9fd-d1a053a05348.png?ex=658d89f2&is=657b14f2&hm=caab42625463d5f6a67906803493c3b0349871717cd09798eb0602b674226924&=&format=webp&quality=lossless&width=635&height=635)
+
+### Because it was outstanding in its field!
