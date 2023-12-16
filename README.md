@@ -26,7 +26,7 @@ Hello! My name is Justin Fiddler and I want to thank you for checking out my Cod
 
 ### [Class 05 - Design Web Pages with CSS](https://justin-fiddler.github.io/reading-notes/code-102/class-05)
 
-### [Class 06](https://justin-fiddler.github.io/reading-notes/code-102/class-06)
+### [Class 06 - Dynamic web pages with JavaScript](https://justin-fiddler.github.io/reading-notes/code-102/class-06)
 
 ### [Class 07](https://justin-fiddler.github.io/reading-notes/code-102/class-07)
 
