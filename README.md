@@ -30,7 +30,7 @@ Hello! My name is Justin Fiddler and I want to thank you for checking out my Cod
 
 ### [Class 07 - Programming with JavaScript](https://justin-fiddler.github.io/reading-notes/102-07)
 
-### [Class 08](https://justin-fiddler.github.io/reading-notes/102-08)
+### [Class 08 - Operators and Loops](https://justin-fiddler.github.io/reading-notes/102-08)
 
 ## Class 201
 
