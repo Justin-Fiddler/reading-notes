@@ -14,7 +14,7 @@ Hello! My name is Justin Fiddler and I want to thank you for checking out my Cod
 
 ## Table of Contents
 
-## Class 102
+## Class 102 - Intro to Software Development
 
 ### [Class 01 - Markdown](https://justin-fiddler.github.io/reading-notes/102-01)
 
@@ -32,7 +32,7 @@ Hello! My name is Justin Fiddler and I want to thank you for checking out my Cod
 
 ### [Class 08 - Operators and Loops](https://justin-fiddler.github.io/reading-notes/102-08)
 
-## Class 201
+## Class 201 - Foundations of Software Development
 
 ### [Class 01](https://justin-fiddler.github.io/reading-notes/201-01)
 
@@ -63,3 +63,7 @@ Hello! My name is Justin Fiddler and I want to thank you for checking out my Cod
 ### [Class 14](https://justin-fiddler.github.io/reading-notes/201-14)
 
 ### [Class 15](https://justin-fiddler.github.io/reading-notes/01-15)
+
+## Class 301 - Intermediate Software Development
+
+## Class 401 - Advanced Software Development
